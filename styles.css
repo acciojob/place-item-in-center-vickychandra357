@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.item-1{
+    display: flexbox;
+    position: absolute;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid #73AD21; */
+    padding: 10px;
+}
